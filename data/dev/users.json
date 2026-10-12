@@ -1,0 +1,6 @@
+{
+  "users": [
+    { "username": "REEMPLAZAR_usuario_1", "password": "REEMPLAZAR_password_1" },
+    { "username": "REEMPLAZAR_usuario_2", "password": "REEMPLAZAR_password_2" }
+  ]
+}
